@@ -42,8 +42,8 @@ let array = [
     },
 
     {
-        ad: 'Jude',
-        soyad: 'Bellingham',
+        ad: 'Bellingham',
+        soyad: 'Jude',
         giris_bali: 33,
         imtahan_bali: 17
     }
