@@ -2,7 +2,7 @@ const array = [5,2,1,7,12,4];
 
 console.log("Orijinal massiv:", array);
 
-function sirala(arr) {
+function Sirala(arr) {
     let n = arr.length;
     for (let i = 0; i < n - 1; i++) {
         for (let j = 0; j < n - i - 1; j++) {
@@ -16,5 +16,5 @@ function sirala(arr) {
     return arr;
 }
 
-const artanSira = sirala(array);
+const artanSira = Sirala(array);
 console.log("Sıralanmış massiv:", artanSira);
