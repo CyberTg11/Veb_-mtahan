@@ -5,3 +5,12 @@ list_items.forEach(item => {
         item.style.display = 'none';
     });
 });
+
+// const ul = document.querySelector('.telebeler')
+
+// if(ul){
+//     ul.setAttribute('class', 'cenq')
+//     let atribut = ul.getAttribute('class')
+//     console.log(atribut)
+    
+// }

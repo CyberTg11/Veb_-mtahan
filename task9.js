@@ -59,8 +59,6 @@ function istifadeciYenile(id, yeniAd, yeniSoyad) {
     }
 }
 
-istifadeciSil(4);
-console.log(array);
-
-istifadeciYenile(2, 'Yusif', 'Sultanov');
+istifadeciSil(6);
+istifadeciYenile(1, 'Yusif', 'Sultanov');
 console.log(array);
